@@ -1,4 +1,158 @@
 {
+    "BoostGram Dx10 Likes": {
+        "comment" : 0,
+        "blocked" : 0,
+        "group_id": "BoostGramDx10Like",
+        "group_type": "fixed",
+        "joined": 0,
+        "like_count": 10,
+        "link_last": {
+            "link_id": 0,
+            "link_posted": 0,
+            "link_time": 0
+        },
+        "max_links": 1,
+        "private": 0,
+        "restrictions": {
+            "followers": 0,
+            "other": 0,
+            "post_amount": 10,
+            "time_interval": 0
+        },
+        "username_required": 1
+    },
+    "BoostGram Dx5 Likes + Comments": {
+        "comment" : 1,
+        "blocked" : 0,
+        "group_id": "BoostGramDx5",
+        "group_type": "fixed",
+        "joined": 0,
+        "like_count": 5,
+        "link_last": {
+            "link_id": 0,
+            "link_posted": 0,
+            "link_time": 0
+        },
+        "max_links": 1,
+        "private": 0,
+        "restrictions": {
+            "followers": 0,
+            "other": 0,
+            "post_amount": 5,
+            "time_interval": 0
+        },
+        "username_required": 1
+    },
+    "BoostGram Dx8 Likes + Comments": {
+        "comment" : 1,
+        "blocked" : 0,
+        "group_id": "BoostGramDx8",
+        "group_type": "fixed",
+        "joined": 0,
+        "like_count": 8,
+        "link_last": {
+            "link_id": 0,
+            "link_posted": 0,
+            "link_time": 0
+        },
+        "max_links": 1,
+        "private": 0,
+        "restrictions": {
+            "followers": 0,
+            "other": 0,
+            "post_amount": 8,
+            "time_interval": 0
+        },
+        "username_required": 1
+    },
+    "BoostGram Dx10 Likes + Comments": {
+        "comment" : 1,
+        "blocked" : 0,
+        "group_id": "BoostGramDx10",
+        "group_type": "fixed",
+        "joined": 0,
+        "like_count": 10,
+        "link_last": {
+            "link_id": 0,
+            "link_posted": 0,
+            "link_time": 0
+        },
+        "max_links": 1,
+        "private": 0,
+        "restrictions": {
+            "followers": 0,
+            "other": 0,
+            "post_amount": 10,
+            "time_interval": 0
+        },
+        "username_required": 1
+    },
+    "BoostGram Dx15 Likes + Comments": {
+        "comment" : 1,
+        "blocked" : 0,
+        "group_id": "BoostGramDx15",
+        "group_type": "fixed",
+        "joined": 0,
+        "like_count": 15,
+        "link_last": {
+            "link_id": 0,
+            "link_posted": 0,
+            "link_time": 0
+        },
+        "max_links": 1,
+        "private": 0,
+        "restrictions": {
+            "followers": 0,
+            "other": 0,
+            "post_amount": 15,
+            "time_interval": 0
+        },
+        "username_required": 1
+    },
+    "BoostGram Dx20 Likes": {
+        "comment" : 0,
+        "blocked" : 0,
+        "group_id": "BoostGramDx20",
+        "group_type": "fixed",
+        "joined": 0,
+        "like_count": 20,
+        "link_last": {
+            "link_id": 0,
+            "link_posted": 0,
+            "link_time": 0
+        },
+        "max_links": 1,
+        "private": 0,
+        "restrictions": {
+            "followers": 0,
+            "other": 0,
+            "post_amount": 20,
+            "time_interval": 0
+        },
+        "username_required": 1
+    },
+    "BoostGram Dx30 Likes": {
+        "comment" : 0,
+        "blocked" : 0,
+        "group_id": "BoostGramDx30",
+        "group_type": "fixed",
+        "joined": 0,
+        "like_count": 30,
+        "link_last": {
+            "link_id": 0,
+            "link_posted": 0,
+            "link_time": 0
+        },
+        "max_links": 1,
+        "private": 0,
+        "restrictions": {
+            "followers": 0,
+            "other": 0,
+            "post_amount": 30,
+            "time_interval": 0
+        },
+        "username_required": 1
+    },
     "[Dx20] BoostGram | Likes": {
         "comment" : 0,
         "blocked" : 0,
@@ -23,6 +177,13 @@
     },
 
     "available_groups" : {
-        "1" : "[Dx20] BoostGram | Likes"
+        "1" : "BoostGram Dx10 Likes",
+        "2" : "BoostGram Dx5 Likes + Comments",
+        "3" : "BoostGram Dx8 Likes + Comments",
+        "4" : "BoostGram Dx10 Likes + Comments",
+        "5" : "BoostGram Dx15 Likes + Comments",
+        "6" : "BoostGram Dx20 Likes",
+        "7" : "BoostGram Dx30 Likes",
+        "8" : "[Dx20] BoostGram | Likes"
     }
 }
