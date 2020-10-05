@@ -175,7 +175,28 @@
         },
         "username_required": 1
     },
-
+    "Wolf | 5K Powerlikes Dx10": {
+        "comment" : 0,
+        "blocked" : 0,
+        "group_id": "Fx4rwkvaUKuKD2owZAlS_g",
+        "group_type": "fixed",
+        "joined": 0,
+        "like_count": 10,
+        "link_last": {
+            "link_id": 0,
+            "link_posted": 0,
+            "link_time": 0
+        },
+        "max_links": 1,
+        "private": 1,
+        "restrictions": {
+            "followers": 5000,
+            "other": 0,
+            "post_amount": 10,
+            "time_interval": 0
+        },
+        "username_required": 0
+    },
     "available_groups" : {
         "1" : "BoostGram Dx10 Likes",
         "2" : "BoostGram Dx5 Likes + Comments",
@@ -184,6 +205,7 @@
         "5" : "BoostGram Dx15 Likes + Comments",
         "6" : "BoostGram Dx20 Likes",
         "7" : "BoostGram Dx30 Likes",
-        "8" : "[Dx20] BoostGram | Likes"
+        "8" : "[Dx20] BoostGram | Likes",
+        "9" : "Wolf | 5K Powerlikes Dx10"
     }
 }
